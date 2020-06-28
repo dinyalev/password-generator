@@ -1,0 +1,24 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinyalev/password-generator.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "nodejs"
+  ],
+  "author": "dinyalev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinyalev/password-generator/issues"
+  },
+  "homepage": "https://github.com/dinyalev/password-generator#readme"
+}
